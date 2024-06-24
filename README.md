@@ -3,8 +3,8 @@
 ## Description
 a board that could be used by all members of a team to keep track of and assigned tasks to members of a team to ensure they're all completed on time
 
-## Screenshots
-N/A
+## Links
+- https://eon1220.github.io/Team-Task-Board/
 
 ## Usage
 - Helps a team properly keep track of tasks
